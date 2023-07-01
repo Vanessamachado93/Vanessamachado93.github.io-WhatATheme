@@ -45,7 +45,11 @@ author-name: Vanessa
 # URL for the Image of the Author
 author-image: https://media.licdn.com/dms/image/D4D03AQHw7gemFovvhw/profile-displayphoto-shrink_800_800/0/1687207650357?e=1693440000&v=beta&t=4Mmd19k1kI_s2KIBao9mbYC9B_P9se5C5RoP6POc7lU
 # 60 Words About the Author
-author-about: Uma pessoa persistente e autodidata!
+
+author-about: Em minha trajetória profissional até o momento tive a oportunidade de desenvolver habilidades de comunicação,
+  trabalho em equipe, organização e planejamento as quais julgo serem extremamente necessárias para qualquer pessoa desenvolvedora.
+  Pós graduada em Administração Financeira, Bacharel em Administração atualmente cursando Análise e Desenvolvimento de Sistemas, onde busco oportunidade para atuar na área de TI.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
