@@ -1,71 +1,38 @@
 ---
-title: Sample Post
+title: Estudos - SQL
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "https://images.unsplash.com/photo-1662026911591-335639b11db6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1162&q=80"
+description: Curso de SQL - Hashtag
 tags:
 - sample
 - post
 - test
 ---
+## SQL
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+ SQL (Structured Query Language) desempenha um papel fundamental na engenharia de dados, sendo uma das principais ferramentas utilizadas nessa área. O SQL é uma linguagem de programação que permite acessar, manipular e gerenciar dados em bancos de dados relacionais.
 
----
+Aqui estão algumas razões que destacam a importância do SQL na engenharia de dados:
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+### Consulta e manipulação de dados:
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+ O SQL permite escrever consultas poderosas para extrair informações específicas de um banco de dados. Comandos como SELECT, INSERT, UPDATE e DELETE permitem recuperar, inserir, atualizar e excluir dados, respectivamente. Essas capacidades são essenciais para a manipulação eficiente e precisa de dados em um ambiente de engenharia de dados.
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+### Integração de fontes de dados:<br>
+Na engenharia de dados, é comum trabalhar com diversas fontes de dados, como bancos de dados relacionais, arquivos CSV, JSON, entre outros. O SQL fornece recursos para unificar e integrar essas diferentes fontes de dados. Por meio de JOINs e outras operações, é possível combinar dados de várias fontes e criar conjuntos de dados completos para análise e processamento.
 
-> Quotes on your post will look like this
+### Transformação e limpeza de dados:<br>
+ Antes de serem utilizados em análises e modelos de dados, os dados geralmente precisam ser transformados e limpos. O SQL oferece recursos poderosos para realizar essas tarefas. Com funções de agregação, filtros, ordenações e manipulação de strings e datas, é possível ajustar, formatar e preparar os dados de acordo com as necessidades específicas do projeto.
 
-`Codes on your post will look like this`
+### Criação e gerenciamento de estruturas de banco de dados:<br>
+ Na engenharia de dados, é fundamental projetar e implementar estruturas de banco de dados eficientes e escaláveis. O SQL permite criar tabelas, definir relacionamentos, criar índices e impor restrições de integridade para garantir a organização correta e a consistência dos dados.
 
-**Link in the post will look like:**<br>
-[This is a link](#)
+### Otimização de consultas: <br>
+À medida que o volume de dados cresce, é importante garantir que as consultas sejam executadas de maneira eficiente. O SQL oferece recursos de otimização de consultas, permitindo que os engenheiros de dados escrevam consultas que aproveitem ao máximo os índices, reduzam o tempo de resposta e melhorem o desempenho geral do sistema.
 
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+### Integração com outras tecnologias: <br>
+O SQL é amplamente suportado por uma variedade de plataformas e sistemas de banco de dados, como MySQL, PostgreSQL, Oracle, SQL Server e muitos outros. Isso significa que os engenheiros de dados podem aplicar seus conhecimentos de SQL em diferentes ambientes e trabalhar com uma variedade de tecnologias relacionadas.
 
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
+Em resumo, o SQL desempenha um papel essencial na engenharia de dados, fornecendo as ferramentas necessárias para consultar, manipular, transformar e gerenciar dados. Seja para integração de fontes de dados, limpeza e transformação de dados ou criação de estruturas de banco de dados eficientes, o SQL é uma habilidade fundamental para qualquer profissional que trabalhe nessa área.
 
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
-
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
-
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
-
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
-
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
-
-**Giphy Gifs will look like:**<br>
-<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
-
-**YouTUbe Videos will look like:**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Curso Lira](/assets/images/sql-lira.png)
